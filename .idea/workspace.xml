@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0256533c-f213-4dfb-9439-77efb41c1c46" name="Default Changelist" comment="" />
+    <list default="true" id="0256533c-f213-4dfb-9439-77efb41c1c46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/IOtets/IOexam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudyProject/IOtets/one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudyProject/IOtets/one.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IOtets/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IOtets/one.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZBqd7V8qNI7aKHWajj19eyKbtn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -56,9 +66,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.one">
+  <component name="RunManager" selected="Application.IOexam">
+    <configuration name="IOexam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IOtets.IOexam" />
+      <module name="StudyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IOtets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="IOtets.ziptts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileTets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IOtets.fileTets" />
+      <module name="StudyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IOtets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,9 +122,13 @@
     <list>
       <item itemvalue="Application.one" />
       <item itemvalue="Application.ziptts" />
+      <item itemvalue="Application.fileTets" />
+      <item itemvalue="Application.IOexam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IOexam" />
+        <item itemvalue="Application.fileTets" />
         <item itemvalue="Application.ziptts" />
       </list>
     </recent_temporary>
@@ -107,27 +147,26 @@
       <workItem from="1584329561242" duration="173630000" />
       <workItem from="1585880594683" duration="20574000" />
       <workItem from="1585981562038" duration="959000" />
-      <workItem from="1585984023634" duration="30818000" />
+      <workItem from="1585984023634" duration="31380000" />
+      <workItem from="1586488958367" duration="15959000" />
+      <workItem from="1586740476344" duration="23817000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IOtets/one.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IOtets/one.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
